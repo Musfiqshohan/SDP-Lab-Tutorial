@@ -1,0 +1,77 @@
+24-03-18 presentation
+next week - 1st evaluation
+one gap week
+next week- 2nd evaluation
+28 april - saturday  final submission
+
+
+using git
+version control 
+
+
+scrum during team project: 
+
+
+
+all properties and tracks are kept in .git hidden folder
+*git status: changed file or line
+*ls -la    = hidden files included
+
+track- shows all changes of a file then need to commit
+commit- when we create a version. 
+red color- not tracked or remove from git
+
+To add in track:
+
+*git add filename
+
+short cut command: 
+*git add.
+all untracked file adds.
+staging means adding or tracking 
+unstage means removing/ untrack
+
+
+
+*git commit -am "Initial commit"  = we can add message in git commit 
+
+adding we are bringing everything in a platform.
+with commit we will approve it as a part of the project
+
+
+
+1. git init
+2. git add filename or all
+3. commit
+
+after changing again we have to add and commit
+
+*git log  = show all commit lists
+
+*git checkout 55d29937  (1st 6 ids)
+to go to the previous commits
+
+
+the text file will be uploaded to the previous commit. Will show only to the log.
+but we can git checkout and go to previous version
+
+
+
+#marktex  , Latex  report submit
+
+if we upload from local host the dont add balsal
+
+
+to clone:
+go to some repository , we will clone and copy that link
+*git clone link
+
+we are cloning that project to our repository  and the editing according to ours. 
+
+first we need to pull then we have to push
+
+git fire to emergency save
+
+
+
+
