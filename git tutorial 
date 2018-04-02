@@ -1,13 +1,6 @@
-24-03-18 presentation
-next week - 1st evaluation
-one gap week
-next week- 2nd evaluation
-28 april - saturday  final submission
-
 
 using git
 version control 
-
 
 scrum during team project: 
 
@@ -17,13 +10,24 @@ all properties and tracks are kept in .git hidden folder
 *git status: changed file or line
 *ls -la    = hidden files included
 
-track- shows all changes of a file then need to commit
-commit- when we create a version. 
-red color- not tracked or remove from git
+
 
 To add in track:
+intialize:	        git init
+connect with github:    git remote add origin  <repository link>
+add files:  		git add filename
+add all:  		git .
+commit:  		git commit -m "say something"
+push:  			git push origin master
+change remote's url:    git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+see remote:  		git remote -v
+show all commit lists:  git log  
+pull a repo:		git pull <repo link>
+to go to the previous	git checkout 55d29937  (1st 6 ids) 
+commits: (Not Sure)
 
-*git add filename
+
+
 
 short cut command: 
 *git add.
@@ -39,10 +43,6 @@ adding we are bringing everything in a platform.
 with commit we will approve it as a part of the project
 
 
-
-1. git init
-2. git add filename or all
-3. commit
 
 after changing again we have to add and commit
 
